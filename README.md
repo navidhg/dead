@@ -2,7 +2,7 @@
 A console app to see your deadlines.
 
 # Usage
-dead reads in deadlines from a CSV file. Each deadline is written on a new line:
+dead reads in deadlines from a CSV file. Write each deadline on a new line:
 ```
 Graphical Models, 23/11/15 12:00, Textbook questions
 Research Methods, 15/01/16 23:55, Coursework 2 (Group)
